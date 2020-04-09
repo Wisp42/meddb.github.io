@@ -1,0 +1,14 @@
+body{
+	font-size: 24px;
+	background-color: #777
+}
+.part{
+	display: block;
+	margin: 10px;
+	background-color: #00f;
+	text-decoration: none;
+	color: #fff
+}
+.not_writed{
+	background-color: #f00;
+}
