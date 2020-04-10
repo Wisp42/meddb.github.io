@@ -3,6 +3,10 @@ body{
 	background-color: #777;
 	color: #fff;
 }
+.void{
+	height: -3px;
+}
+
 .part{
 	display: block;
 	margin: 10px;
@@ -10,6 +14,16 @@ body{
 	text-decoration: none;
 	color: #fff
 }
+.part:hover{
+	background-color:  #222;
+	padding: 3px 0;
+	margin: -3px 10px;
+}
 .not_writed{
 	background-color: #f00;
+}
+.not_writed:hover{
+	background-color:  #c00;
+	padding: 3px 0;
+	margin: -3px 10px;
 }

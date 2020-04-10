@@ -3,16 +3,3 @@ body{
 	background-color: #000;
 	color: #fff;
 }
-.part{
-	display: block;
-	margin: 10px;
-	background-color: #00f;
-	text-decoration: none;
-	color: #fff
-}
-.not_writed{
-	background-color: #f00;
-}
-img{
-	display: block;
-}
