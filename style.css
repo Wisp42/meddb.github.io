@@ -2,6 +2,7 @@ body{
 	font-size: 24px;
 	background-color: #777;
 	color: #fff;
+	margin: 10px;
 }
 .void{
 	height: -3px;
@@ -9,15 +10,15 @@ body{
 
 .part{
 	display: block;
-	margin: 10px;
 	background-color: #333;
 	text-decoration: none;
+	margin: 10px 0;
 	color: #fff
 }
 .part:hover{
 	background-color:  #222;
 	padding: 3px 0;
-	margin: -3px 10px;
+	margin: -3px 0;
 }
 .not_writed{
 	background-color: #f00;
@@ -25,5 +26,5 @@ body{
 .not_writed:hover{
 	background-color:  #c00;
 	padding: 3px 0;
-	margin: -3px 10px;
+	margin: -3px 0;
 }
